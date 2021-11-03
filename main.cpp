@@ -108,13 +108,13 @@ plant.growFlower();
 //  action 3:   the plant stores water
 plant.storeWater();
 //  8)
-//  Noun:       mobile phone
-//  action 1:   the phone searches for a signal provider
-phone.signalSearch();
-//  action 2:   the phone notifies the user when battery is low
-phone.lowBatteryNotification();
-//  action 3:   the phone charges it battery
-phone.chargeBattery();
+//  Noun:       rockBand
+//  action 1:   the rockBand throw a tv out the window
+rockBand.throwTV();
+//  action 2:   the rockBand play a concert
+rockBand.playConcert();
+//  action 3:   the rockBand get fired by their label
+rockband.firedByLabel();
 //  9)
 //  Noun:       mailman
 //  action 1:   the mailman collects the mail from the post office

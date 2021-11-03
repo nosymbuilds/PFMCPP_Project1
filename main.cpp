@@ -100,13 +100,13 @@ alarm.alert();
 //  action 3:   the alarm increases in volume if not responded to
 alarm.alertLouder();
 //  7)
-//  Noun:       plants
+//  Noun:       plant
 //  action 1:   the plant synthesises light
-turntable.synthesiseLight();
+plant.synthesiseLight();
 //  action 2:   the plant grows flowers
-turntable.growFlower();
+plant.growFlower();
 //  action 3:   the plant stores water
-turntable.storeWater();
+plant.storeWater();
 //  8)
 //  Noun:       mobile phone
 //  action 1:   the phone searches for a signal provider
@@ -123,8 +123,8 @@ mailman.collectMail();
 mailman.deliverMail();
 //  action 3:   the mailman chases dogs for fun
 mailman.chaseDog();
-//  10)         painter 
-//  Noun:
+//  10)          
+//  Noun:       painter
 //  action 1:   the painter chooses a colour palette
 painter.colourPalette();
 //  action 2:   the painter chooses a brush type

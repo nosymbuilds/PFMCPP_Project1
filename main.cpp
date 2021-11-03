@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       synth
+//  action 1:   the synth sends midi information
+synth.sendMidi();
+//  action 2:   the synth sends audio information
+synth.sendAudio();
+//  action 3:   the synth loads its default presets
+synth.loadPresets();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       muscle
+//  action 1:   the muscle contracts
+muscle.contract();
+//  action 2:   the muscle rests
+muscle.rest();    
+//  action 3:   the muscle grows
+muscle.grow();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       computer
+//  action 1:   the computer consumes electricity
+computer.consumeElectricity();
+//  action 2:   the computer stores data
+computer.memory();
+//  action 3:   the computer regulates temperature
+computer.regulateTemp();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       monkey
+//  action 1:   the monkey climbs a tree
+monkey.climbTree();
+//  action 2:   the monkey peels fruit
+monkey.peelFruit();
+//  action 3:   the monkey grooms itself
+monkey.groom();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       aircraft
+//  action 1:   the aircraft holds cargo
+aircraft.holdCargo();
+//  action 2:   the aircraft glides
+aircraft.glide();
+//  action 3:   the aircraft burns fuel
+aircraft.burnFuel();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       alarm
+//  action 1:   the alarm checks the time
+alarm.checkTime();
+//  action 2:   the alarm plays an alert sound
+alarm.alert();
+//  action 3:   the alarm increases in volume if not responded to
+alarm.alertLouder();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       plants
+//  action 1:   the plant synthesises light
+turntable.synthesiseLight();
+//  action 2:   the plant grows flowers
+turntable.growFlower();
+//  action 3:   the plant stores water
+turntable.storeWater();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       mobile phone
+//  action 1:   the phone searches for a signal provider
+phone.signalSearch();
+//  action 2:   the phone notifies the user when battery is low
+phone.lowBatteryNotification();
+//  action 3:   the phone charges it battery
+phone.chargeBattery();
 //  9)
+//  Noun:       mailman
+//  action 1:   the mailman collects the mail from the post office
+mailman.collectMail(); 
+//  action 2:   the mailman delivers the mail to the correct address
+mailman.deliverMail();
+//  action 3:   the mailman chases dogs for fun
+mailman.chaseDog();
+//  10)         painter 
 //  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  action 1:   the painter chooses a colour palette
+painter.colourPalette();
+//  action 2:   the painter chooses a brush type
+painter.brushType();
+//  action 3:   the painter sets up the canvas
+painter.setupCanvas();
 
 
 #endif
